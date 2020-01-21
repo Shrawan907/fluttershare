@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "163884948132",
+    "firebase_url": "https://fluttershare-f815d.firebaseio.com",
+    "project_id": "fluttershare-f815d",
+    "storage_bucket": "fluttershare-f815d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163884948132:android:3fe383f97f28b1966a6431",
+        "android_client_info": {
+          "package_name": "com.shrawan98.fluttershare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163884948132-bdufsa1p0krc32u0adue68bc797n6m0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpD8pKa5F4zTVF81eurznc71DAupmyZJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163884948132-bdufsa1p0krc32u0adue68bc797n6m0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
